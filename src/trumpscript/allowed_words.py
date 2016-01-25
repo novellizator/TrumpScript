@@ -1210,6 +1210,8 @@ ALLOWED = {"a",
 "multiply",
 "murderers",
 "music",
+"muslim",
+"muslims"
 "must",
 "my",
 "myself",
